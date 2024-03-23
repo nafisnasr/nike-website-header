@@ -1,0 +1,12 @@
+/* Footer Styles */
+.footer {
+  background-color: #212121;
+  width: 100%;
+}
+.footer .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  color: var(--white);
+}

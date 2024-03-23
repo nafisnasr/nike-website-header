@@ -1,0 +1,10 @@
+.shopping-section {
+  width: 100%;
+  padding: 1rem;
+  background-color: #ececec7a;
+}
+.shopping-section .wrapper {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+}
